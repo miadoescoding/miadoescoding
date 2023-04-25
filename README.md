@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Bogdan)](https://git.io/typing-svg)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=scoliosiss&color=DE3163&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitor Badge">
+<img src="https://visitor-badge.glitch.me/badge?page_id=bogdaniscool&color=DE3163&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitor Badge">
 
 - 18
 - I do not code as often anymore
