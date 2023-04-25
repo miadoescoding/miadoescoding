@@ -6,11 +6,11 @@
 - I do not code as often anymore
 - I mainly do java and c#
 
-### I enjoy minecraft coding and I only play to post minecraft mods 
+### I enjoy minecraft coding and I only plan to post minecraft mods 
 #### I can code minecraft mods in java, kotlin and chattriggers javascript
 
 ## Languages I am comfortable with
-![](https://img.shields.io/badge/kotlin-ffa500?style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/kotlin-ffa500?style=for-the-badge&logo=kotlin&logoColor=black)
 ![](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/python-0078D6?style=for-the-badge&logo=python&logoColor=white)
